@@ -1,4 +1,4 @@
-import HomePage from './pages/HomePage';
+//import HomePage from './pages/HomePage';
 import VerificationPage from './pages/VerificationPage';
 
 function App() {
